@@ -1,0 +1,11 @@
+torch 
+torchvision 
+torchaudio
+transformers
+datasets
+tokenizers
+accelerate
+optuna
+tensorboard
+scikit-learn
+mlflow
